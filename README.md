@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Shokry</h1>
-<h3 align="center">Experienced Cloud and DevOps Architect with 9 years of expertise in designing, automating, and optimizing large-scale cloud infrastructures. Specializing in resilient architectures and seamless cloud-native operations, driving operational efficiency across telecom and enterprise environments. Passionate about innovation, automation, and delivering scalable, high-performance solutions.</h3>
+<h3 align="left">Experienced Cloud and DevOps Architect with 9 years of expertise in designing, automating, and optimizing large-scale cloud infrastructures. Specializing in resilient architectures and seamless cloud-native operations, driving operational efficiency across telecom and enterprise environments. Passionate about innovation, automation, and delivering scalable, high-performance solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedmshokry&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedmshokry" /> </p>
 
